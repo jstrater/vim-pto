@@ -9,29 +9,30 @@ Here's an example of what my PTO files look like:
 # 2011
 
 # Smith Rock
-11/26/09
-11/27/09
-11/28/09
+11/09/26
+11/09/27
+11/09/28
 
 # Red Rocks w/ Marty
-11/24/10
-11/25/10
-11/26/10
+11/10/24
+11/10/25
+11/10/26
 
 # 2012
 
 # Red Rocks
-12/09/04
-12/10/04
+12/04/09
+12/04/10
 
 # Mazama
-12/01/06
+12/06/01
 
 # Tuolumne w/ Steve
-12/04/09
-12/05/09
-12/06/09
-12/07/09
+12/09/04
+12/09/05
+12/09/06
+12/09/07
+
 ```
 
 They're just a list of dates (in `YY/MM/DD` format) with comments interspersed.
